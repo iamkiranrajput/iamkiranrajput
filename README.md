@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rajputkiran2804@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nfhLGVdu4GI6Xh5EC5IuuG7hOqUSfjAu/view](https://drive.google.com/file/d/1nfhLGVdu4GI6Xh5EC5IuuG7hOqUSfjAu/view)
-
 <h3 align="left">Connect with me:</h3>
 
 
