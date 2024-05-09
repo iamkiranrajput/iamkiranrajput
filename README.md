@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there! I'm a Java developer with a keen interest in web development. Currently, I'm diving into React, Spring, and Spring Boot to enhance my skills further.<br>I'm deeply engaged in web development projects, particularly focusing on ecommerce solutions. <br>I'm open to collaborating on web development projects, especially those involving Java, React, or Spring technologies. Let's work together to build something amazing!<br>I'm seeking collaborations with experienced professionals to enhance and refine my skills.<br>Currently, I'm expanding my skills in React, Spring, and Spring Boot to create more dynamic and efficient web applications.<br>Feel free to ask me anything about Java development, web development.<br>
+Hey there!
+I'm a Java developer with a keen interest in web development. Currently, I'm diving into React, Spring, and Spring Boot to enhance my skills further.<br>I'm deeply engaged in web development projects, particularly focusing on ecommerce solutions. <br>I'm open to collaborating on web development projects, especially those involving Java, React, or Spring technologies. Let's work together to build something amazing!<br>I'm seeking collaborations with experienced professionals to enhance and refine my skills.<br>Currently, I'm expanding my skills in React, Spring, and Spring Boot to create more dynamic and efficient web applications.<br>Feel free to ask me anything about Java development, web development.<br>
 
 
 ## 🌐 Socials:
