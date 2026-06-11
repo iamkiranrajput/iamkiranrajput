@@ -1,9 +1,12 @@
 # Hi, I'm Kiran Rajput 👋
 
-**Software Engineer @ Cisco** — I build scalable, secure backend systems in **Java** and **Spring Boot**, with hands-on experience in **microservices, REST APIs, cloud (AWS / Azure), and AI-integrated platforms (RAG, LLMs)**.
+### Software Engineer @ Cisco · Java · Spring Boot · Microservices · Cloud · AI-Integrated Backend Systems
 
-- 🔭 Building AI-powered enterprise tooling and network-automation services at Cisco
-- 🌱 Going deeper on distributed systems, system design, and cloud security
+I design and build **scalable, secure backend systems** in **Java** and **Spring Boot**, with production experience in **microservices, REST APIs, cloud (AWS / Azure), and AI-integrated platforms (RAG, LLMs, MCP)**. I care about clean architecture, well-tested code, and turning complex problems into reliable, maintainable systems.
+
+- 🔭 At **Cisco**, I build AI-powered enterprise tooling and network-automation services for the Crosswork Network Controller
+- 🧠 Strong foundation in **Data Structures & Algorithms, System Design, and Distributed Systems**
+- 🌱 Currently going deeper on distributed systems, cloud security, and high-scale backend design
 - 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, AWS, or LLM/RAG integration**
 - 📫 Reach me at **rajputkiran2805@gmail.com**
 
@@ -27,15 +30,29 @@
 
 ---
 
+## 💼 Professional Highlights
+
+**🤖 AI-Powered Enterprise Query Assistant — Cisco**
+Natural-language-to-SQL assistant spanning **PostgreSQL, MySQL, and Oracle**, powered by a **RAG** engine with semantic schema search (**FAISS**), **MCP**-based tooling for schema discovery and SQL generation, and a **Webex bot** interface — secured with credential encryption, query validation, and audit logging.
+`Python` · `FastAPI` · `Angular` · `Azure OpenAI` · `RAG` · `MCP` · `PostgreSQL`
+
+**🧵 Tailoring Platform Microservices — Cyahlo**
+Backend **microservices** (user-service + tailor-service) with **Spring Security** authentication, **Spring Cloud OpenFeign** inter-service communication, **PostgreSQL/PostGIS** location-based search, OpenAPI/Swagger docs, and **Docker** containerization, following a clean layered architecture.
+`Java 17/21` · `Spring Boot 3` · `Spring Security` · `OpenFeign` · `PostgreSQL` · `Docker`
+
+**🔬 Blister Inspection System — Skytag**
+Real-time **industrial machine-vision** quality-control system in **C++** with **OpenCV**, **Basler** cameras, **PLC** integration (Mitsubishi MELSEC / Beckhoff TwinCAT), **SQL Server**, RDLC reporting, and an event-driven core.
+`C++` · `OpenCV` · `Windows Forms` · `PLC` · `SQL Server`
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **Movie-Insight** | REST API with authentication, CRUD, pagination, sorting, and media uploads | Java, Spring Boot, Spring Data JPA, MySQL |
-| **EMS** | Full-stack Employee Management System with a responsive SPA frontend | React.js, Spring Boot, Hibernate, MySQL |
-| **eCommerce-app** | Modern e-commerce web app with auth, product catalog, and cart | Spring Boot, React, Tailwind CSS, Material UI |
-| **url-shortener** | High-throughput URL shortening service with clean REST design | Java, Spring Boot |
-| **aws-storage-service** | Cloud storage service integrating AWS for object storage | Java, Spring Boot, AWS |
+| **[Movie-Insight](https://github.com/iamkiranrajput/Movie-Insight)** | Production-style REST API with authentication, CRUD, pagination, sorting, and media uploads | Java, Spring Boot, Spring Data JPA, MySQL |
+| **[EMS](https://github.com/iamkiranrajput/EMS)** | Full-stack Employee Management System with a responsive SPA frontend and REST backend | React.js, Spring Boot, Hibernate, MySQL |
+| **[eCommerce-app](https://github.com/iamkiranrajput/eCommerce-app)** | Modern e-commerce web app with authentication, product catalog, and cart | Spring Boot, React, Tailwind CSS, Material UI |
 
 ---
 
